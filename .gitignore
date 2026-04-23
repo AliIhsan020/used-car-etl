@@ -1,0 +1,4 @@
+log_file.txt
+processed_data.csv
+__pycache__/
+*.pyc
